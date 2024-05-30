@@ -1,0 +1,4 @@
+avoidDoubleQuoteCheckBad.py
+avoidDoubleQuoteCheckGood.py
+AvoidListComprehensionInIterationsBad.py
+AvoidListComprehensionInIterationsGood.py
